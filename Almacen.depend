@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1462835603 source:c:\users\jonathan\desktop\projecto\almacen\main.cpp
+	<iostream>
+	<stdio.h>
+
+1463094012 source:c:\users\jonathan\desktop\projecto\almacen\articulo.cpp
+	<string>
+	"articulo.h"
+
+1462848996 c:\users\jonathan\desktop\projecto\almacen\articulo.h
+
+1463094012 source:c:\users\jonathan\desktop\jony\pc\jony\facultad\algoritmo y estructura de datos\tp-almacen\deposito---ayed\articulo.cpp
+	<string>
+	"articulo.h"
+
+1462848996 c:\users\jonathan\desktop\jony\pc\jony\facultad\algoritmo y estructura de datos\tp-almacen\deposito---ayed\articulo.h
+
