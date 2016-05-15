@@ -9,9 +9,14 @@
 
 1462848996 c:\users\jonathan\desktop\projecto\almacen\articulo.h
 
-1463094012 source:c:\users\jonathan\desktop\jony\pc\jony\facultad\algoritmo y estructura de datos\tp-almacen\deposito---ayed\articulo.cpp
+1463267968 source:c:\users\jonathan\desktop\jony\pc\jony\facultad\algoritmo y estructura de datos\tp-almacen\deposito---ayed\articulo.cpp
 	<string>
-	"articulo.h"
+	"Articulo.h"
 
-1462848996 c:\users\jonathan\desktop\jony\pc\jony\facultad\algoritmo y estructura de datos\tp-almacen\deposito---ayed\articulo.h
+1463270145 c:\users\jonathan\desktop\jony\pc\jony\facultad\algoritmo y estructura de datos\tp-almacen\deposito---ayed\articulo.h
+
+1463264718 source:c:\users\jonathan\desktop\jony\pc\jony\facultad\algoritmo y estructura de datos\tp-almacen\deposito---ayed\main.cpp
+	<iostream>
+	<stdio.h>
+	"articulo.h"
 
