@@ -15,3 +15,14 @@
 
 1462848996 c:\users\jonathan\desktop\jony\pc\jony\facultad\algoritmo y estructura de datos\tp-almacen\deposito---ayed\articulo.h
 
+1463258867 source:c:\users\julieta\desktop\tp\deposito---ayed\articulo.cpp
+	<string>
+	"articulo.h"
+
+1463258867 c:\users\julieta\desktop\tp\deposito---ayed\articulo.h
+
+1463258867 source:c:\users\julieta\desktop\tp\deposito---ayed\main.cpp
+	<iostream>
+	<stdio.h>
+	"articulo.h"
+
